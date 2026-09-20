@@ -1,0 +1,1 @@
+print("It's sunday today and we have taken a break.")
