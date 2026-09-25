@@ -1,4 +1,5 @@
-a=10
-b=5
-result=a+b
-print("The sum is:", result)
+first = input("Enter first name: ")
+last = input("Enter last name: ")
+age = input ("Enter his age: ")
+height = input("Enter his height: ")
+print (first, last ," is a superhero. His age is", age,". His height is ", height)
