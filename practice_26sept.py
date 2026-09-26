@@ -12,6 +12,6 @@
 
 #27 sept code
 a=int(input("enter a: "))
-b=int(input("enter b: "))
-diff = a-b
+n=int(input("enter n: "))
+diff = a-n
 print("diff: ", diff)
